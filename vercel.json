@@ -1,0 +1,5 @@
+{
+  "functions": {
+    "api/commentary.js": { "includeFiles": "skill/**", "maxDuration": 30 }
+  }
+}

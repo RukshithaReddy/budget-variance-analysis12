@@ -1,0 +1,7 @@
+{
+  "name": "financial-statement-analysis-assistant",
+  "version": "1.0.0",
+  "description": "Financial statement analysis: exact ratios and changes calculated in code, commentary written by Claude using SKILL.md",
+  "private": true,
+  "engines": { "node": ">=18" }
+}
